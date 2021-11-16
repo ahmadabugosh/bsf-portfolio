@@ -1,0 +1,32 @@
+.profile
+{
+    border-radius: 50%;
+}
+
+#description
+{
+    margin-top:5%;
+}
+
+.row
+{
+    margin-top:5%;
+}
+
+.images
+{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+body{
+    background-color: #202020;
+    color: white;
+}
